@@ -1,0 +1,6 @@
+{
+  "name": "SeedAI Pro",
+  "description": "Hệ thống quản lý seeding AI và tối ưu hóa tương tác tự động cho Crypto & Forex trên TikTok",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
